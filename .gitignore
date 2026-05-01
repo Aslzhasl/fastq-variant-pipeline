@@ -1,0 +1,40 @@
+# Raw and processed sequencing data
+data/raw_fastq/
+data/clean_fastq/
+
+# Reference genome and indexes
+reference/
+
+# Large alignment and variant files
+results/bam/*.bam
+results/bam/*.bai
+results/vcf/*.vcf.gz
+results/vcf/*.tbi
+
+# Temporary files
+*.tmp
+*.log
+.cache/
+__pycache__/
+
+# Keep reports and small tables
+# Raw and cleaned sequencing data
+data/raw_fastq/
+data/clean_fastq/
+
+# Reference genome and indexes
+reference/
+
+# Large alignment files
+results/bam/*.bam
+results/bam/*.bai
+
+# Large variant files
+results/vcf/*.vcf.gz
+results/vcf/*.tbi
+
+# Temporary/cache files
+*.tmp
+*.log
+__pycache__/
+.cache/

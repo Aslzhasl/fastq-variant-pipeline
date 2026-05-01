@@ -1,0 +1,12 @@
+chromosome,position,id,ref,alt,quality,filter,genotype,depth,mapping_quality,allele_count,allele_number,gene,variant_effect,protein_effect,clinical_significance,clinvar_id,omim_id,acmg_classification,interpretation_note
+chr22,14419724,.,C,G,99.4152,PASS,1/1,5,59,2,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14419740,.,A,C,113.415,PASS,1/1,5,58,2,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14419743,.,T,C,74.4883,PASS,1/1,5,58,2,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14419779,.,T,C,156.56,PASS,0/1,10,55,1,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14419786,.,C,T,179.416,PASS,1/1,8,56,2,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14420171,.,C,T,86.415,PASS,1/1,6,25,2,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14420196,.,G,A,71.5246,PASS,1/1,9,26,2,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14420217,.,T,G,34.5436,PASS,1/1,6,26,2,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14420221,.,A,C,71.4148,PASS,1/1,6,26,2,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14420226,.,C,G,28.8485,PASS,0/1,6,26,1,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
+chr22,14420295,.,A,T,53.4805,PASS,0/1,5,41,1,2,,,,,,,,Requires annotation with VEP/SnpEff and clinical database review
